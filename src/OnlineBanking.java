@@ -15,7 +15,7 @@ public class OnlineBanking {
     public long autoGenerateNo() {
         Random obj = new Random();
 
-      long accountNumber = obj.nextLong(100000000000l,999999999999l);
+      long accountNumber = obj.nextLong(100000000000L,999999999999L);
         return  accountNumber;
     }
 
