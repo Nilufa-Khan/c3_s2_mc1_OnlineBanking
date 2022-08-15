@@ -22,7 +22,7 @@ public class OnlineBanking {
     public double  withdrawCash(int withdrawlAmount){
        double availableBalance = 0.0;
         if(withdrawlAmount < accountBalance) {
-            availableBalance = this.accountBalance - withdrawlAmount;
+            availableBalance = accountBalance - withdrawlAmount;
 
         }
         return availableBalance;
@@ -34,9 +34,9 @@ public class OnlineBanking {
     }
     public double depositCash(int depositAmount){
         double availableBalance = 0.0;
-        if(depositAmount < accountBalance){
-            availableBalance = accountBalance -depositAmount;
-        }
+       
+            availableBalance = accountBalance + depositAmount;
+        
         return availableBalance;
     }
     public double  transferFunds(int transferAmount){
