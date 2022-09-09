@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1980c1e-01f5-4e68-89f1-63db87ba4a0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/c3_s2_mc1_OnlineBanking.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OnlineBanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OnlineBanking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnlineBanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OnlineBankingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OnlineBankingImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

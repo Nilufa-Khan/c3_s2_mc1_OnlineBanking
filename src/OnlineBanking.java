@@ -8,7 +8,7 @@ public class OnlineBanking {
         this.accountHolderName = accountHolderName;
         this.accountBalance = accountBalance;
         accountNumber = autoGenerateNo();
-        System.out.println(accountNumber);
+        System.out.println("Account number = "+accountNumber);
         this.accountStatus = accountStatus;
 
     }
